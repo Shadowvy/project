@@ -1,4 +1,4 @@
-# 🎮 GuessMaster
+# 🎮 AlphaNum Guess Game
 
 A desktop Java Swing game that uses SQLite to store user accounts and high scores. Players can sign up, sign in, and play two game modes: **Alphabet** (guess letters) and **Number** (guess numbers) with three difficulty levels (Easy / Medium / Hard).
 
